@@ -2,16 +2,16 @@
 Created a recommender system that will recommend new musical artists to a user based on their listening history
 
 
-Technologies
+# Technologies
 
 • Python
 
 • Spark
 
-Techniques
+# Techniques
 
 • Collaborative Filtering
 
-Dataset
+# Dataset
 
 • Song data from audioscrobbler
