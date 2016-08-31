@@ -3,11 +3,15 @@ Created a recommender system that will recommend new musical artists to a user b
 
 
 Technologies
+
 • Python
+
 • Spark
 
 Techniques
+
 • Collaborative Filtering
 
 Dataset
+
 • Song data from audioscrobbler
